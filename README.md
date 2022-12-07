@@ -7,7 +7,10 @@ da nossa escolha que existisse no aparelho.
 # Projeto executado
 
 ## imagem 1
-![Screenshot_2022-12-06-21-26-10-845_com example affirmations](https://user-images.githubusercontent.com/102106531/206062887-046202a7-f978-4d5f-860f-b5ab24be58dd.jpg)
+![Screenshot_2022-12-06-21-54-11-430_com example words](https://user-images.githubusercontent.com/102106531/206066583-e80d4a33-6f12-4301-9f2e-9bf2b308600f.jpg)
 
 ## imagem 2
-![Screenshot_2022-12-06-21-26-17-829_com example affirmations](https://user-images.githubusercontent.com/102106531/206062901-cd3a4c86-c12d-4ff2-bbf9-9d997c312276.jpg)
+![Screenshot_2022-12-06-22-41-04-943_com example words](https://user-images.githubusercontent.com/102106531/206067011-8c01f128-1cfb-4ee4-8351-c7c8fbfdd671.jpg)
+
+## imagem 3
+![Screenshot_2022-12-06-22-35-32-472_android](https://user-images.githubusercontent.com/102106531/206066595-a0749101-bbb5-42d9-82dd-82cd5ecf4638.jpg)
